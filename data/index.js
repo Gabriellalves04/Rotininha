@@ -3,9 +3,9 @@ const DATA =
     {
       id: '01',
       porcentagem: '5.95%',
-      titulo="Transporte Ida e Volta para a escola",
-      imagem='5.png',
-      descricao="Segunda a Sexta",
+      titulo: "Transporte Ida e Volta para a escola",
+      imagem: '5.png',
+      descricao: "Segunda a Sexta",
     },
     {
         id: '02',
